@@ -15,7 +15,7 @@ This project was created using **Spring Boot**.
 ## ✅ Screenshots
 
 ### ✅ Greeting Page (/greeting)
-![Greeting Page]  
+![Greeting Page](screenshots/task1.1.png)  
 
 ### ✅ Home Page (/)
-![Home Page]  
+![Home Page](screenshots/task1.2.png)  
